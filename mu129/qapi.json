@@ -1,0 +1,25 @@
+{
+  "seller_code": "MU129",
+  "category_code": "300000484",
+  "price": 4608,
+  "qty": 0,
+  "shipping_no": "836772",
+  "origin_type": "2",
+  "origin": "KR",
+  "available_type": "0",
+  "available_value": "3",
+  "weight": "0.5",
+  "hero_image_url": "https://raw.githubusercontent.com/myuh33/konomoa-images/main/mu129/hero.jpg",
+  "header_image_url": "",
+  "detail_image_urls": [],
+  "footer_image_url": "",
+  "detail_image_source": "",
+  "sheet_check": {
+    "sheet": "9월판매상품 row MU129",
+    "name": "최고심 룸슬리퍼",
+    "Y_price_jpy": 4608,
+    "K_weight_g": 500,
+    "weight_from": "시트 K열",
+    "checked": "2026-10-27"
+  }
+}

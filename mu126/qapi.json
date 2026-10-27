@@ -1,0 +1,25 @@
+{
+  "seller_code": "MU126",
+  "category_code": "320000563",
+  "price": 2225,
+  "qty": 0,
+  "shipping_no": "836772",
+  "origin_type": "2",
+  "origin": "KR",
+  "available_type": "0",
+  "available_value": "3",
+  "weight": "0.1",
+  "hero_image_url": "https://raw.githubusercontent.com/myuh33/konomoa-images/main/mu126/hero.jpg",
+  "header_image_url": "",
+  "detail_image_urls": [],
+  "footer_image_url": "",
+  "detail_image_source": "",
+  "sheet_check": {
+    "sheet": "9월판매상품 row MU126",
+    "name": "미니엽서 9종",
+    "Y_price_jpy": 2225,
+    "K_weight_g": 100,
+    "weight_from": "시트 K열",
+    "checked": "2026-10-27"
+  }
+}

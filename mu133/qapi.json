@@ -1,0 +1,27 @@
+{
+  "seller_code": "MU133",
+  "category_code": "300000579",
+  "price": 2820,
+  "qty": 0,
+  "shipping_no": "836772",
+  "origin_type": "2",
+  "origin": "KR",
+  "available_type": "0",
+  "available_value": "3",
+  "weight": "0.3",
+  "brand_name": "",
+  "brand_no": "TODO_brand_lookup",
+  "hero_image_url": "https://raw.githubusercontent.com/myuh33/konomoa-images/main/mu133/hero.jpg",
+  "header_image_url": "",
+  "detail_image_urls": [],
+  "footer_image_url": "",
+  "detail_image_source": "TODO_qsm_upload (detail_01~04)",
+  "sheet_check": {
+    "sheet": "9월판매상품 row MU133",
+    "name": "한울 촉촉 고구마 스틱, 20g, 10개",
+    "Y_price_jpy": 2820,
+    "K_weight_g": 300,
+    "weight_from": "시트 K열",
+    "checked": "2026-10-29"
+  }
+}

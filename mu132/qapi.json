@@ -1,0 +1,27 @@
+{
+  "seller_code": "MU132",
+  "category_code": "300000574",
+  "price": 2100,
+  "qty": 0,
+  "shipping_no": "836772",
+  "origin_type": "2",
+  "origin": "KR",
+  "available_type": "0",
+  "available_value": "3",
+  "weight": "1.0",
+  "brand_name": "",
+  "brand_no": "TODO_brand_lookup",
+  "hero_image_url": "https://raw.githubusercontent.com/myuh33/konomoa-images/main/mu132/hero.jpg",
+  "header_image_url": "",
+  "detail_image_urls": [],
+  "footer_image_url": "",
+  "detail_image_source": "TODO_qsm_upload (detail_01~04)",
+  "sheet_check": {
+    "sheet": "9월판매상품 row MU132",
+    "name": "신라면 로제 134g, 8개",
+    "Y_price_jpy": 2100,
+    "K_weight_g": 1000,
+    "weight_from": "시트 K열",
+    "checked": "2026-10-29"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "seller_code": "MU131",
+  "category_code": "300000574",
+  "price": 3240,
+  "qty": 0,
+  "shipping_no": "836772",
+  "origin_type": "2",
+  "origin": "KR",
+  "available_type": "0",
+  "available_value": "3",
+  "weight": "0.9",
+  "brand_name": "",
+  "brand_no": "TODO_brand_lookup",
+  "hero_image_url": "https://raw.githubusercontent.com/myuh33/konomoa-images/main/mu131/hero.jpg",
+  "header_image_url": "",
+  "detail_image_urls": [],
+  "footer_image_url": "",
+  "detail_image_source": "TODO_qsm_upload (detail_01~07)",
+  "sheet_check": {
+    "sheet": "9월판매상품 row MU131",
+    "name": "삼양 tangle 파스타 4종중 2종 선택",
+    "Y_price_jpy": 3240,
+    "K_weight_g": 900,
+    "weight_from": "시트 K열",
+    "checked": "2026-10-29"
+  }
+}

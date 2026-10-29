@@ -1,0 +1,29 @@
+{
+  "seller_code": "MU118",
+  "category_code": "320001628",
+  "price": 2760,
+  "qty": 0,
+  "shipping_no": "836772",
+  "origin_type": "2",
+  "origin": "KR",
+  "available_type": "0",
+  "available_value": "3",
+  "weight": "0.3",
+  "title": "【4枚入り】バイオコラーゲン リアルディープマスク 34g シートマスク コラーゲン ナイアシンアミド パック 韓国コスメ",
+  "brand_name": "Biodance",
+  "brand_no": "TODO_brand_lookup",
+  "detail_text": false,
+  "hero_image_url": "https://raw.githubusercontent.com/myuh33/konomoa-images/main/mu118/hero.jpg",
+  "header_image_url": "",
+  "detail_image_urls": [],
+  "footer_image_url": "",
+  "detail_image_source": "TODO_qsm_upload",
+  "sheet_check": {
+    "sheet": "9월판매상품 row MU118",
+    "name": "[BIODANCE] 바이오 콜라겐 리얼 딥 마스크 (34g*4ea)",
+    "Y_price_jpy": 2760,
+    "K_weight_g": 300,
+    "weight_from": "시트 K열",
+    "checked": "2026-10-29"
+  }
+}

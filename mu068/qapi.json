@@ -1,0 +1,25 @@
+{
+  "seller_code": "MU068",
+  "category_code": "300000574",
+  "price": 2100,
+  "qty": 0,
+  "shipping_no": "836772",
+  "origin_type": "2",
+  "origin": "KR",
+  "available_type": "0",
+  "available_value": "3",
+  "weight": "1.0",
+  "hero_image_url": "https://raw.githubusercontent.com/myuh33/konomoa-images/main/mu068/hero.jpg",
+  "header_image_url": "",
+  "detail_image_urls": [],
+  "footer_image_url": "",
+  "detail_image_source": "TODO_reupload_2026-10-29 (2봉 v5)",
+  "sheet_check": {
+    "sheet": "9월판매상품 row MU068",
+    "name": "농심 앵그리 너구리 121g, 5개입 2봉",
+    "Y_price_jpy": 2100,
+    "K_weight_g": 1000,
+    "checked": "2026-10-29",
+    "note": "2봉 기준(v5). 무게 K열은 뮤 입력 대기 / 상세 이미지 재업로드 필요"
+  }
+}

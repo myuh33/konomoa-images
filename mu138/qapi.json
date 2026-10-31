@@ -1,0 +1,25 @@
+{
+  "seller_code": "MU138",
+  "category_code": "300000579",
+  "price": 1581,
+  "qty": 0,
+  "shipping_no": "836772",
+  "origin_type": "2",
+  "origin": "KR",
+  "available_type": "0",
+  "available_value": "3",
+  "weight": "0.3",
+  "hero_image_url": "https://raw.githubusercontent.com/myuh33/konomoa-images/main/mu138/hero.jpg",
+  "header_image_url": "",
+  "detail_image_urls": [],
+  "footer_image_url": "",
+  "detail_image_source": "",
+  "sheet_check": {
+    "sheet": "9월판매상품 row MU138",
+    "name": "노브랜드X아우어 더티초코페스츄리바이트60g 3개",
+    "Y_price_jpy": 1581,
+    "K_weight_g": 0,
+    "weight_from": "추정 0.3kg (시트 K열 미입력)",
+    "checked": "2026-10-31"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "seller_code": "MU141",
+  "category_code": "300000601",
+  "price": 2270,
+  "qty": 0,
+  "shipping_no": "836772",
+  "origin_type": "2",
+  "origin": "CN",
+  "available_type": "0",
+  "available_value": "3",
+  "weight": "0.2",
+  "hero_image_url": "https://raw.githubusercontent.com/myuh33/konomoa-images/main/mu141/hero.jpg",
+  "header_image_url": "",
+  "detail_image_urls": [],
+  "footer_image_url": "",
+  "detail_image_source": "",
+  "sheet_check": {
+    "sheet": "9월판매상품 row MU141",
+    "name": "노브랜드 콜드브루미니컵커피2g*6입 2개세트",
+    "Y_price_jpy": 2270,
+    "K_weight_g": 200,
+    "weight_from": "시트 K열",
+    "checked": "2026-10-31"
+  },
+  "brand_no": "106267",
+  "brand_name": "No Brand",
+  "title": "コールドブリュー ミニカップコーヒー 2g×12個 水にも牛乳にも溶かすだけ インスタントコーヒー 韓国コーヒー"
+}
